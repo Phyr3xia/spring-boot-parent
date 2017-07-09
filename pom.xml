@@ -42,6 +42,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-cache</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>de.fallen</groupId>
+			<artifactId>fallen-utils</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
